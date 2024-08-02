@@ -1,5 +1,6 @@
-<img align="right" src="https://vistor-badge.laobi.icu/badge?page_id=Alan-Zacharia.ALan-Zacharia"/>
-
+  <h1 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Alan+Zacharia" alt="" />
+  </h1>
 
 - 👋 Hi, I’m @Alan-zacharia
 - 👀 I’m interested in ...
