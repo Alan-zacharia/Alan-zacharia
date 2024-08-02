@@ -4,13 +4,13 @@
   <h3 align="center">A passionate software developer from kerala !.</h3>
   <br/>
   <div align="center">
-    
-    I'm currently working on ** a dinout application** 
-    
-    I'm currently learing **socket io, Tailwind , Next**
-    
-    Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything **
-    
+  
+   🔭 I'm currently working on **a dinout application** 
+   
+   🌱 I'm currently learing **SOCKET, TAILWIND , NEXT js , AWS**
+   
+   💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything**
+   
   </div>
 
 
