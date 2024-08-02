@@ -24,9 +24,9 @@
  <br/>
  <div align="center">
    <a>
-   <img src="https://skillicons.dev/icons?i=nodejs,aws,nextjs,react,express,mongodb,html,css,bootstrap,typescript,tailwind,figma" target="_blank"/>
-   
-   <img src="https://skillicons.dev/icons?i=nodejs,aws,nextjs,react,express,mongodb,html,css,bootstrap,typescript,tailwind,figma" target="_blank"/>
+     &nbsp;&nbsp;&nbsp;
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs,express,react,mongodb,typescript,tailwind" target="_blank"/>
+   <img src="https://skillicons.dev/icons?i=aws,figma,git,github,postgressql,firebase,c,java,materialui" target="_blank"/>
    </a>
    
  </div>
