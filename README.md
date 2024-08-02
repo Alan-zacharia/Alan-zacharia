@@ -19,6 +19,7 @@
  <h1 align="center">Learned frameworks....</h1>
  <div align="center">
    <img src="https://skillicons.dev/icons?i=nodejs,aws,nextjs,react,express,mongodb,html,css,bootstrap,typescript,tailwind,figma" target="_blank"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,aws,nextjs,react,express,mongodb,html,css,bootstrap,typescript,tailwind,figma" target="_blank"/>
  </div>
 
 
