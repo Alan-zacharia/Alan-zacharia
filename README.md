@@ -4,12 +4,16 @@
   <h3 align="center">A passionate software developer from kerala !.</h3>
   <br/>
   <div align="center">
-  
-   🔭 I'm currently working on **a dinout application** 
+    <ul>
+      <li>🔭 I'm currently working on **a dinout application**</li>
+      <li>🌱 I'm currently learing **SOCKET, TAILWIND , NEXT js , AWS**</li>
+      <li>💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything [here](https://www.linkedin.com/in/alan-zacharia-02b230271/)**</li>
+    </ul>
+    
    
-   🌱 I'm currently learing **SOCKET, TAILWIND , NEXT js , AWS**
+ 
    
-   💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything [here](https://www.linkedin.com/in/alan-zacharia-02b230271/)**
+
    
   </div>
 
