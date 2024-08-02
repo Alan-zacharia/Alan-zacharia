@@ -19,10 +19,12 @@
   </div>
  
  <br/>
+ <hr/>
+ 
  <div align="left">
   <h2>Hey there 👋.</h2>
    
-  <p >I am Alan, a full-stack developer, designer, moderator, and high school student. I am passionate about development, moderation, and building thriving online communities. I work on many projects using the MERN stack.</p>
+  <p >I am Alan - I'm a full-stack developer, designer, moderator, and high school student. I am passionate about development, moderation, and building thriving online communities. I work on many projects using the MERN stack.</p>
   
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,typescript,nodejs,javascript," target="_blank"/>
   
