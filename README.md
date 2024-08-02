@@ -9,7 +9,7 @@
    
    🌱 I'm currently learing **SOCKET, TAILWIND , NEXT js , AWS**
    
-   💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything**
+   💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything [here](https://www.linkedin.com/in/alan-zacharia-02b230271/)**
    
   </div>
 
