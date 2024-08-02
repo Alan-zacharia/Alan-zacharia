@@ -1,17 +1,10 @@
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alan+Zacharia!;" alt="Typing SVG"  />
   </h1>
-  <div align="left">
-  <h2>Hey there 👋.</h2>
-   
-  <p >I am Alan - I'm a full-stack developer, designer, moderator, and high school student. I am passionate about development, moderation, and building thriving online communities. I work on many projects using the MERN stack.</p>
+  <h2>🧑‍💻Passionate developer from kerala...</h2>
   
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,typescript,nodejs,javascript," target="_blank"/>
-  
- </div>
-  
- <br/>
- <br/>
+  <br/>
+  <br/>
   <br/>
   <div align="center">
     
@@ -32,9 +25,6 @@
  <br/>
  <br/>
  
-
-
-
  <h2 align="center"> &nbsp;&nbsp;&nbsp;     🚀⚒️Languages-Frameworks-Tools⚒️🚀</h1>
  <div align="center">
    <a>
@@ -43,6 +33,16 @@
    <img src="https://skillicons.dev/icons?i=aws,figma,git,github,postgresql,firebase,c,java,materialui,html,css,bootstrap,materialui,postman,stackoverflow" target="_blank"/>
    </a>
    
+ </div>
+
+
+  <div align="left">
+  <h2>Hey there 👋.</h2>
+   
+  <p >I am Alan - I'm a full-stack developer, designer, moderator, and high school student. I am passionate about development, moderation, and building thriving online communities. I work on many projects using the MERN stack.</p>
+  
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,typescript,nodejs,javascript," target="_blank"/>
+  
  </div>
 
 
