@@ -31,7 +31,8 @@
   
  </div>
   
-  <hr/>
+ <br/>
+ <br/>
 
 
  <h2 align="center"> &nbsp;&nbsp;&nbsp;     🚀⚒️Languages-Frameworks-Tools⚒️🚀</h1>
