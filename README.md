@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alan+Zacharia!;" alt="Typing SVG"  />
   </h1>
   
-  <h4 align="center" >🧑‍💻a passionate developer from kerala🧑‍💻</h2>
+  <h3 align="center" >🧑‍💻a passionate developer from kerala🧑‍💻</h3>
   
   <br/>
   <div align="center">
