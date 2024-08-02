@@ -45,7 +45,7 @@
   
  </div>
 
- <h2 align="center">Stats⚡</h2>
+ <h2 align="center">⚡ Stats ⚡</h2>
 
   <br/>
   <div align="center">  
@@ -56,6 +56,9 @@
  <img width=390  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alan-zacharia&count_private=true&theme=react&border_radius=10" target="_blank"/> 
  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Alan-zacharia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" target="_blank"/>
  </div>
+ <hr/>
+
+ 
 
 
 
