@@ -1,10 +1,9 @@
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alan+Zacharia!;" alt="Typing SVG"  />
   </h1>
+  
   <h2 align="center" >🧑‍💻Passionate developer from kerala...</h2>
   
-  <br/>
-  <br/>
   <br/>
   <div align="center">
     
@@ -54,8 +53,8 @@
   </div>
   <br/>
  <div align="center">
- <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alan-zacharia&count_private=true&theme=react&border_radius=10" target="_blank"/> 
- <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Alan-zacharia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" target="_blank"/>
+ <img width=390  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alan-zacharia&count_private=true&theme=react&border_radius=10" target="_blank"/> 
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Alan-zacharia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" target="_blank"/>
  </div>
 
 
