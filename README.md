@@ -12,7 +12,9 @@
   💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything [here](https://www.linkedin.com/in/alan-zacharia-02b230271/)**
    
   </div>
-
+  <div align="center">
+    <a href="https://www.linkedin.com/in/alan-zacharia-02b230271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" src="linkedIn" /></a>
+  </div>
 
 
 
