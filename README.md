@@ -26,7 +26,7 @@
    <a>
      &nbsp;&nbsp;&nbsp;
    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,mongodb,typescript,tailwind" target="_blank"/>
-   <img src="https://skillicons.dev/icons?i=aws,figma,git,github,sql,firebase,c,java,materialui,html,css,bootstrap," target="_blank"/>
+   <img src="https://skillicons.dev/icons?i=aws,figma,git,github,postgresql,firebase,c,java,materialui,html,css,bootstrap," target="_blank"/>
    </a>
    
  </div>
