@@ -24,6 +24,9 @@
  <br/>
 
   <p align="left">I am Alan, a full-stack developer, designer, moderator, and high school student. I am passionate about development, moderation, and building thriving online communities. I work on many projects using the MERN stack.</p>
+  
+  <hr/>
+  
  <div align="center">
    <a>
      &nbsp;&nbsp;&nbsp;
