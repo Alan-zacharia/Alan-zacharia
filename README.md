@@ -4,7 +4,7 @@
   <h3 align="center">A passionate software developer from kerala !.</h3>
   <br/>
   <div align="center">
-    <ul align="flex flex-start">
+    <ul >
       <li>🔭 I'm currently working on **a dinout application**</li>
       <li>🌱 I'm currently learing **SOCKET, TAILWIND , NEXT js , AWS**</li>
     </ul>
