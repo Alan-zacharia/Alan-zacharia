@@ -19,7 +19,8 @@
   </div>
  
  <br/>
- <hr/>
+ <br/>
+ <br/>
  
  <div align="left">
   <h2>Hey there 👋.</h2>
