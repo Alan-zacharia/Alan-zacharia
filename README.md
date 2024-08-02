@@ -5,11 +5,11 @@
   <br/>
   <div align="center">
     
-    🔭 I'm currently working on **a dinout application**
+  🔭 I'm currently working on **a dinout application**
     
-    🌱 I'm currently learing **SOCKET, TAILWIND , NEXT js , AWS**
+  🌱 I'm currently learing **SOCKET, TAILWIND , NEXT js , AWS**
     
-    💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything [here](https://www.linkedin.com/in/alan-zacharia-02b230271/)**
+  💬 Ask me about **Node js , React , Mongo Db , Firebase , Express... or anything [here](https://www.linkedin.com/in/alan-zacharia-02b230271/)**
    
   </div>
 
