@@ -22,11 +22,14 @@
  <h2 align="center"> &nbsp;&nbsp;&nbsp;     🚀⚒️Languages-Frameworks-Tools⚒️🚀</h1>
  
  <br/>
+
+  <p align="center">I am Alan - I am a fulllstack developer,designer,moderator and high school student. I'm passionated in development,moderation and
+  build thriving online devolpments. I work on many projects using mern development...</p>
  <div align="center">
    <a>
      &nbsp;&nbsp;&nbsp;
-   <img src="https://skillicons.dev/icons?i=mongodb,express,react,,nodejs" target="_blank"/>
-   <img src="https://skillicons.dev/icons?i=aws,figma,git,github,postgresql,firebase,c,java,materialui,html,css,bootstrap," target="_blank"/>
+   <img src="https://skillicons.dev/icons?i=mongodb,express,react,typescript,tailwind,nodejs,javascript,vscode,vite,nginx" target="_blank"/>
+   <img src="https://skillicons.dev/icons?i=aws,figma,git,github,postgresql,firebase,c,java,materialui,html,css,bootstrap,cloud,materialui,postman,stackoverflow" target="_blank"/>
    </a>
    
  </div>
