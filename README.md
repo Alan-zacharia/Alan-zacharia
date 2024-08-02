@@ -29,7 +29,7 @@
    <a>
      &nbsp;&nbsp;&nbsp;
    <img src="https://skillicons.dev/icons?i=mongodb,express,react,typescript,tailwind,nodejs,javascript,vscode,vite,nginx" target="_blank"/>
-   <img src="https://skillicons.dev/icons?i=aws,figma,git,github,postgresql,firebase,c,java,materialui,html,css,bootstrap,cloud,materialui,postman,stackoverflow" target="_blank"/>
+   <img src="https://skillicons.dev/icons?i=aws,figma,git,github,postgresql,firebase,c,java,materialui,html,css,bootstrap,materialui,postman,stackoverflow" target="_blank"/>
    </a>
    
  </div>
